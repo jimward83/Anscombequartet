@@ -8,4 +8,4 @@ The dataset is an example of how useful it is to plot data before relying on sum
 Although the dataset is well known in the field of statistics, I could not find the raw data in csv format. I Therefore had a difficulty downloading the data to my machine in order to perform basic analysis and plotting.
 
 ## Uploading to GitHub
-Once the Jupyter notebook had been created and run, I had a problem uploading this to GitHub.
+Once the Jupyter notebook had been created and run, I had a problem uploading this to GitHub. The issue appears to be the git commit command. Further investigation is ongoing.
